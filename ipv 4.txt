@@ -1,1 +1,2 @@
-cctv4,http://zqjy.info/tv/NzQ1MzY3?channel=CCTV4K
+央视，#类型#
+CCTV4，http://zqjy.info/tv/NzQ1MzY3?channel=CCTV4K
