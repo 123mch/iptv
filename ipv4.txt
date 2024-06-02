@@ -1,2 +1,3 @@
 央视,#genre#
 CCTV4,http://zqjy.info/tv/NzQ1MzY3?channel=CCTV4K
+CCTV4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
